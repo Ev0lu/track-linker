@@ -1,0 +1,16 @@
+#root {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 5px 5px;
+  font-size: 1rem;
+  border: 1px solid #ccc;
+  color: rgb(151, 122, 122);
+  cursor: pointer;
+  outline: none;
+}
