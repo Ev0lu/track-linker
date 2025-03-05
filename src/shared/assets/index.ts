@@ -1,9 +1,0 @@
-export { default as apple_music } from './images/apple_music.svg';
-export { default as spotify } from './images/spotify.svg';
-export { default as vk } from './images/vk.svg';
-export { default as yandex_music } from './images/yandex_music.svg';
-export { default as example } from './images/example.png';
-export { default as share } from './images/share.svg';
-export { default as repeat_image } from './images/repeat.svg';
-export { default as play } from './images/play.svg';
-export { default as pause } from './images/pause.svg';
